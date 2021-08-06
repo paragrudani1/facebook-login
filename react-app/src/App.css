@@ -1,0 +1,11 @@
+body {
+  background-color: #363434 !important;
+  border-radius: 10px;
+}
+
+.card {
+  width: auto;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+}
